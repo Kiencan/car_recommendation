@@ -1,0 +1,6 @@
+numpy
+qdrant-client
+sentence-transformers
+Faker
+fastapi
+uvicorn
